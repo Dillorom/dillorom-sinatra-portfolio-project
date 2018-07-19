@@ -8,6 +8,8 @@ gem 'require_all'
 gem 'thin'
 gem 'bcrypt'
 gem 'pg', '0.20'
+gem 'rails_12factor'
+gem 'foreman'
 
 
 group :development do
